@@ -5,8 +5,8 @@ https://expo.dev/preview/update?message=My%20latest%20update&updateRuntimeVersio
 
 
 ![qrcode 71459992](https://github.com/user-attachments/assets/801a11d9-363c-46ba-beaf-fb852481561b)
-![Screenshot_20250323_170446_Expo Go](https://github.com/user-attachments/assets/c39da48d-b7bc-4191-b95c-0d2c195f6540)
-![Screenshot_20250323_170450_Expo Go](https://github.com/user-attachments/assets/a54dace5-8631-4cc7-a730-e3aa65efd9e8)
-![Screenshot_20250323_170456_Expo Go](https://github.com/user-attachments/assets/7a0c359d-5b80-4a0f-9604-ede43e5e9e0c)
-![Screenshot_20250323_170501_Expo Go](https://github.com/user-attachments/assets/e7835e47-ee7a-45d5-a2e4-004fb573f403)
-![Screenshot_20250323_170508_Expo Go](https://github.com/user-attachments/assets/5f454012-8301-41de-b8b8-3cb485150c7d)
+![Screenshot_20250323_170456_Expo_Go_efexaz](https://github.com/user-attachments/assets/e8f127b9-dd9d-4aa1-a30a-9300cfc30768)
+![Screenshot_20250323_170450_Expo_Go_tr6let](https://github.com/user-attachments/assets/466c4492-9e7d-47f5-a425-0009d569be7b)
+![Screenshot_20250323_170508_Expo_Go_h6r1rr](https://github.com/user-attachments/assets/8aa9cf59-23eb-4779-ad95-773d3e08bcb2)
+![Screenshot_20250323_170446_Expo_Go_gaupcn](https://github.com/user-attachments/assets/861b263c-11a8-4f35-b030-1535c507501c)
+![Screenshot_20250323_170501_Expo_Go_zjnsuh](https://github.com/user-attachments/assets/d4b27589-8ecb-48c0-993d-2665ec984111)
